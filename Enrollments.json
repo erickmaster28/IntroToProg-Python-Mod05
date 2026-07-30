@@ -1,0 +1,37 @@
+[
+  {
+    "FirstName": "Steve",
+    "LastName": "Rogers",
+    "CourseName": "Political Science"
+  },
+  {
+    "FirstName": "Tony",
+    "LastName": "Stark",
+    "CourseName": "Enginnering 100"
+  },
+  {
+    "FirstName": "Peter",
+    "LastName": "Parker",
+    "CourseName": "Biology 100"
+  },
+  {
+    "FirstName": "Hiccup",
+    "LastName": "Haddock",
+    "CourseName": "Dragon Training 200"
+  },
+  {
+    "FirstName": "James",
+    "LastName": "Kirk",
+    "CourseName": "Piloting 100"
+  },
+  {
+    "FirstName": "Erick",
+    "LastName": "Epley",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Christopher",
+    "LastName": "Nolan",
+    "CourseName": "Directing 400"
+  }
+]
